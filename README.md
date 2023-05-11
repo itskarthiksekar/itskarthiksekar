@@ -1,35 +1,25 @@
-### Hola, I'm [Karthik Sekar](https://karthiksekar.dev) 👋
+### Hola, I'm [Mazur Borys] 👋
 
-<a href="https://linkedin.com/in/karthiksekars">
-  <img align="left" alt="Karthik Sekar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/karthiksekars">
+<a href="https://github.com/mazur11">
   <img align="left" alt="Karthik Sekar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/carthiksekar/">
-  <img align="left" alt="Karthik Sekar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 <br/>
 <br/>
 
-- 🔭 I’m currently working on PHP.
+- 🔭 I’m currently working on PHP/Laravel, Javascript, React/Next.js, Vue/Nuxt.js, Node.js, etc.
 - 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on PHP & Python related projects.
-- 🤔 I’m looking for help with Python.
+- 👯 I’m looking to collaborate on PHP & any Javascript related projects.
+- 🤔 I’m looking for help with PHP and any Javascript project.
 - 💬 Ask me about PHP or any tech related stuff.
-- 📫 How to reach me [Karthik Sekar](https://karthiksekar.dev)
 - 😄 Pronouns He/His
 
-[![Linkedin: karthiksekars](https://img.shields.io/badge/-karthiksekars-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthiksekars/)](https://www.linkedin.com/in/karthiksekars/)
-[![GitHub karthiksekars](https://img.shields.io/github/followers/karthiksekars?label=follow&style=social)](https://github.com/karthiksekars)
-[![website](https://img.shields.io/badge/Portfolio-karthiksekar.dev-2648ff?style=flat-square&logo=google-chrome)](https://karthiksekar.dev/)
+[![GitHub Borys Mazur](https://img.shields.io/github/followers/mazur11?label=follow&style=social)](https://github.com/mazur11)
 
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" title="PHP"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" title="Angular"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" title="JS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" title="MySQL"></code>
@@ -49,11 +39,11 @@
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/44521256?s=200&v=4" alt="CodeIgniter" title="CodeIgniter"></code>
 
 
-<a href="https://github.com/karthiksekars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksekars&theme=light&hide_langs_below=1" />
+<a href="https://github.com/mazur11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazur11&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/karthiksekars">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=karthiksekars&show_icons=true&theme=light&line_height=27" alt="Karthik Sekar's github stats"/>
+<a href="https://github.com/mazur11">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mazur11&show_icons=true&theme=light&line_height=27" alt="Bory Mazur's github stats"/>
 </a>
 
 <div align="center">
