@@ -2,7 +2,7 @@
 
 **Senior Cloud Solutions Architect** | **Azure Certified Expert (AZ-305)** | **Multi-Cloud · DevOps Leader** | **Kubernetes · Terraform · Ansible**
 
-Results-driven architect with 15+ years of experience leading cloud transformation across Azure, AWS, and GCP. Passionate about building scalable systems, automating infrastructure, optimizing cloud spend, and integrating AI into modern architectures.
+Results-driven architect with 15+ years of experience leading cloud transformation across Azure, AWS, and GCP. Passionate about building scalable systems, automating infrastructure, optimising cloud spend, and integrating AI into modern architectures.
 
 ---
 
@@ -22,13 +22,13 @@ Results-driven architect with 15+ years of experience leading cloud transformati
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services (AWS)" width="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes (K8s)" width="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Docker" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
 </p>
 
 ---
@@ -64,4 +64,4 @@ Results-driven architect with 15+ years of experience leading cloud transformati
 - Deeply focused on cloud governance and sustainable IT.
 - Researching agentic AI and MCP to improve cloud automation, FinOps, and security.
 
-> “Skilled in architecting, optimizing, and securing cloud platforms to accelerate digital transformation.”
+> “Skilled in architecting, optimising, and securing cloud platforms to accelerate digital transformation.”
