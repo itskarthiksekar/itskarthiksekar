@@ -45,8 +45,8 @@ Results-driven architect with 15+ years of experience leading cloud transformati
 ## 🔗 Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karthiksekars" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://karthiksekar.dev" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/karthiksekars" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://karthiksekar.dev" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white" /></a> 
   <a href="https://www.youtube.com/playlist?list=PLiqv9aXWko4vvRpu4Em7ZI-r7XdgNk41p" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 </p>
 
