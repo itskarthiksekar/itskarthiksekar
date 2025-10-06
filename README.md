@@ -1,6 +1,6 @@
 # Hi, I'm [Karthik Sekar](https://www.linkedin.com/in/karthiksekars) 👋
 
-**Senior Cloud Solutions Architect** | **Azure Certified Expert (AZ-104 & AZ-305)** | **Multi-Cloud · DevOps Leader** | **Kubernetes · Terraform · Ansible**
+**Senior Cloud Solutions Architect** | **Azure Certified Expert (AZ-305)** | **Multi-Cloud & DevOps Leader Driving Cloud Innovation & Automation** | **Kubernetes · Terraform · Ansible** | **Mentor & Technical Leader**
 
 Results-driven architect with 15+ years of experience leading cloud transformation across Azure, AWS, and GCP. Passionate about building scalable systems, automating infrastructure, optimising cloud spend, and integrating AI into modern architectures.
 
