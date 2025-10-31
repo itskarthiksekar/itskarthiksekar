@@ -1,4 +1,4 @@
-# Hi, I'm [Karthik Sekar](https://www.linkedin.com/in/karthiksekars) 👋
+# Hi, I'm [Karthik Sekar](https://www.linkedin.com/in/ItsKarthikSekar) 👋
 
 **Senior Cloud Solutions Architect** | **Azure Certified Expert (AZ-305)** | **Multi-Cloud & DevOps Leader Driving Cloud Innovation & Automation** | **Kubernetes · Terraform · Ansible** | **Mentor & Technical Leader**
 
@@ -13,7 +13,7 @@ Results-driven architect with 15+ years of experience leading cloud transformati
 - 👯 Open to collaborating on cloud architecture, AI integration, and DevOps projects
 - 🤝 Happy to offer mentorship and share knowledge on cloud security, automation, and infrastructure as code
 - 💬 Ask me about Azure, multi-cloud strategy, Terraform, Kubernetes, or AI-powered solutions
-- 📫 Reach me at [Karthik Sekar](https://www.linkedin.com/in/karthiksekars)
+- 📫 Reach me at [Karthik Sekar](https://www.linkedin.com/in/ItsKarthikSekar)
 - 😄 Pronouns: He/Him
 
 ---
