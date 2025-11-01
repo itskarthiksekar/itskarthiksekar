@@ -37,10 +37,10 @@
 
 
 ## Achievements
-- Architected multi-cloud platforms with 99.99% availability.  
-- Reduced deployment effort by ~70% with GitOps and pipeline automation.  
-- Implemented FinOps controls saving >35% in cloud spend.  
-- Led cross-functional teams to deliver secure, compliant infrastructure at scale.
+- Designed and deployed multi-cloud architectures achieving 99.99% availability.
+- Streamlined delivery with GitOps pipelines, cutting deployment time by 70%.
+- Drove FinOps initiatives that saved over 35% in operational cloud costs.
+- Guided DevOps and Security teams toward ISO 27001-aligned, scalable architectures.
 
 
 ## Speaking & Webinars
@@ -54,16 +54,16 @@
 
 ## Mentorship & Community
 
-- [CareerByteCode](https://www.linkedin.com/company/careerbytecode) - Cloud Solutions Mentor (Volunteer) · Apr 2025 – Present  
-  Volunteer Senior Cloud Solutions Architect mentoring early-career engineers in cloud architecture, infrastructure as code, and DevOps.
+**[CareerByteCode](https://www.linkedin.com/company/careerbytecode)** - Cloud Solutions Mentor (Volunteer) · Apr 2025 – Present  
+Volunteer Senior Cloud Solutions Architect mentoring early-career engineers in cloud architecture, infrastructure as code, and DevOps.
 
-  Key contributions:
-  - Led live workshops & demos.  
-  - Mentored engineers on Azure/AWS/GCP, Terraform, Ansible, and Kubernetes.  
-  - Created hands-on lab materials and sample repos for practical learning.  
-  - Advised on cloud cost optimisation, disaster recovery planning, and security best practices.
+**Key contributions:**
+ - Led live workshops & demos.  
+ - Mentored engineers on Azure/AWS/GCP, Terraform, Ansible, and Kubernetes.  
+ - Created hands-on lab materials and sample repos for practical learning.  
+ - Advised on cloud cost optimisation, disaster recovery planning, and security best practices.
 
-  Technologies: Azure · AWS · GCP · Kubernetes · Docker · Terraform · Ansible · Jenkins · observability & security tools.
+Technologies: Azure · AWS · GCP · Kubernetes · Docker · Terraform · Ansible · Jenkins · observability & security tools.
 
 
 ## Featured LinkedIn Posts
@@ -76,3 +76,4 @@
 
 I’m passionate about driving innovation in AI and cloud-native technologies. If you’re interested in exploring new ideas, building scalable solutions, or pushing the boundaries of what cloud and AI can achieve together, let’s connect and collaborate. Whether it’s open-source projects, technical workshops, or mentoring, I’m always eager to partner with like-minded professionals to create impactful results.
 
+Let’s connect: [Karthik Sekar](https://www.linkedin.com/in/ItsKarthikSekar)
