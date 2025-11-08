@@ -69,7 +69,8 @@ Technologies: Azure · AWS · GCP · Kubernetes · Docker · Terraform · Ansibl
 ## Featured LinkedIn Posts
 
 - [Linux Commands - Every DevOps Engineer Should Know](https://www.linkedin.com/pulse/linux-commands-every-devops-engineer-should-know-karthik-sekar-buwne)
-- [Master Azure Compute - VMs, AKS, Serverless & Beyond](https://www.linkedin.com/posts/itskarthiksekar_master-azure-compute-vms-aks-serverless-activity-7382221747380490240-G4Dl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAdA1ksBh86mJL0CFGwybWxUgLK8jHbfWHE)
+- [Master Azure Compute - VMs, AKS, Serverless & Beyond](https://www.linkedin.com/posts/itskarthiksekar_master-azure-compute-vms-aks-serverless-activity-7382221747380490240-G4Dl)
+- [Ever wondered how to keep your Azure images automatically updated with the latest security patches?](https://www.linkedin.com/pulse/ever-wondered-how-keep-your-azure-images-updated-latest-karthik-sekar-xhhwe)
 
 
 ## Let’s Collaborate
